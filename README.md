@@ -12,7 +12,7 @@ for modern Java-based enterprise applications - on any kind of deployment platfo
 
 But to be more blunt about it, the way I see the Spring framework is:
 
-![Photo](https://www.delscookingtwist.com/wp-content/uploads/2024/01/Orange-Pound-Cake_Ingredients-1024x1536.jpg)
+![A photo of cake ingredients](https://www.delscookingtwist.com/wp-content/uploads/2024/01/Orange-Pound-Cake_Ingredients-1024x1536.jpg)
 
 Yes, really. Spring is like the ingredients for a cake. It provides you with all 
 the tools you need to build a great application that'll satisfy all of your needs.
@@ -37,11 +37,11 @@ building Spring applications and gets you up and running as quickly as possible.
 
 So, basically Spring Boot is this:
 
-![Photo](https://mrbrownbakery.com/image/images/GJ7uCwGiteTF24HTWBclkziVTdhpQeZWH23MvQfq.jpeg?p=full)
+![A photo of chocolate cake](https://mrbrownbakery.com/image/images/GJ7uCwGiteTF24HTWBclkziVTdhpQeZWH23MvQfq.jpeg?p=full)
 
 ...or this:
 
-![Photo](https://chelsweets.com/wp-content/uploads/2022/11/recipe-card-penguin-cake-closer-540x720.jpg)
+![A photo of a cake shaped like a penguin](https://chelsweets.com/wp-content/uploads/2022/11/recipe-card-penguin-cake-closer-540x720.jpg)
 
 Yes, I mean that, since you can customize it however you like. 
 It can be any cake you want.
