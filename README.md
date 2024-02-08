@@ -12,7 +12,7 @@ for modern Java-based enterprise applications - on any kind of deployment platfo
 
 But to be more blunt about it, the way I see the Spring framework is:
 
-![Photo](https://cakebycourtney.com/wp-content/uploads/2020/01/shutterstock_128966756.jpg)
+![Photo](https://www.delscookingtwist.com/wp-content/uploads/2024/01/Orange-Pound-Cake_Ingredients-1024x1536.jpg)
 
 Yes, really. Spring is like the ingredients for a cake. It provides you with all 
 the tools you need to build a great application that'll satisfy all of your needs.
