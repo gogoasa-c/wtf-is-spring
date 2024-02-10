@@ -59,3 +59,17 @@ even some you didn't know you wanted.
 But enough of the customary introduction, let's get to the nitty-gritty of it all.
 
 You'll find everything you need under the `src/main/java/org.gogoasa.WTF.is.Spring` folder.
+
+But if you're lazy like I am, here's some shortcuts for each chapter:
+
+### Table of Contents:
+
+- [0x01: Basics](./src/main/java/org/gogoasa/WTF/is/Spring/_01/basics.md)
+- [0x02: Goodbye Spring, hello Spring Boot!](./src/main/java/org/gogoasa/WTF/is/Spring/_02/springboot.md)
+- [0x03: How to actually set up your first project](./src/main/java/org/gogoasa/WTF/is/Spring/_03/setting_up_your_first_project.md)
+- [0x04: Dependencies you'll probably be needing](./src/main/java/org/gogoasa/WTF/is/Spring/_04/dependencies.md)
+- [0x05: How do I configure my application?](./src/main/java/org/gogoasa/WTF/is/Spring/_05/config.md)
+- [0x06: What does the file structure of a Spring project look like?](./src/main/java/org/gogoasa/WTF/is/Spring/_06/filestructure.md)
+
+---
+- **[Project Example](./src/main/java/org/gogoasa/WTF/is/Spring/ANOTHERREADME.md)**
