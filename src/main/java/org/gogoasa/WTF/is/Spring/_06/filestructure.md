@@ -37,8 +37,8 @@ src
 │   │                       ├── exception
 │   │                       ├── mapper
 │   │                       └── util
-│   ├── resources
-│   │   └── application.properties
+│   └── resources
+│       └── application.properties
 └── test
     ├── java
     │   └── org
