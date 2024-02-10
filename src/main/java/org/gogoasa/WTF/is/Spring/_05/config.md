@@ -73,4 +73,5 @@ public class MyService {
 ```
 
 I'd say that this is a sufficient introduction to using the application properties in Spring Boot, you'll
-be getting more used to this as you create applications and as you us
+be getting more used to this as you create applications and as you use more and more properties for the
+dependencies.
