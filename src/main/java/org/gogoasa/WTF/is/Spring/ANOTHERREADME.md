@@ -21,3 +21,8 @@ So, the simplest way to go about it would be:
 git clone https://github.com/gogoasa-c/crusaders-nable.git
 ```
 
+And also make sure you're on the 'backend' branch, since that's where the project is located. Just do:
+
+```
+git switch backend
+```
