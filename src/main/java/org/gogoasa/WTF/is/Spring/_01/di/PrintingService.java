@@ -4,6 +4,11 @@ import org.gogoasa.WTF.is.Spring._01.ioc.Printer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * This is a service class. It is used to define the business logic of the application.
+ * We'll get to annotations later, but for now, just know that this is a service class.
+ * We also have Repository classes and Controller classes.
+ */
 @Service
 public class PrintingService {
 
