@@ -30,7 +30,7 @@ I recommend just doing your own old-fashioned SQL queries.
 This is for those of you who want to write your own `select`, `insert`, `update` and `delete` queries. Not 
 a whole lot more to say about it.
 
-## Lombok:
+## Lombok
 
 This isn't part of Spring by default, but it's a dependency that makes life 10 times easier. It allows you
 to use plenty of annotations that make your life easier, and it's the one that you'll be needing to use
