@@ -46,9 +46,14 @@ Finally, you can also notice we return a `ResponseEntity` object from the method
 Spring provides to handle the responses. It's a good way to handle the responses because it gives you
 a lot of control over the response, such as the status code, the headers, and the body.
 
-So, to sum up, the `@RestController` annotation tells Spring that this class is a controller, and the
-`@RequestMapping` annotation tells Spring that this class should handle the requests that match the
-specified URL. The `@GetMapping` and `@PostMapping` annotations tell Spring that the methods should handle
-the GET and POST requests, respectively, and the `@PathVariable` and `@RequestBody` annotations are used
-to get the path variables and the request body from the requests, respectively. Finally, the `ResponseEntity`
-class is used to handle the responses.
+So, to sum up:
+- `@RestController`: This annotation tells Spring that this class is a controller and that it should 
+handle the incoming requests;
+- `@RequestMapping`: This annotation is used to map the HTTP requests to the methods in the controller;
+- `@GetMapping`, `@PostMapping`, `@PutMapping`, `@DeleteMapping`, `@PatchMapping`: These annotations
+are used to specify the HTTP method that the method should handle;
+- `@PathVariable`: This annotation is used to get the path variables from the requests;
+- `@RequestBody`: This annotation is used to get the request body from the requests;
+- `ResponseEntity`: This class is used to handle the responses.
+- `@ResponseBody`: This annotation tells Spring that the methods in this class should return the response
+body directly, instead of a view name.
