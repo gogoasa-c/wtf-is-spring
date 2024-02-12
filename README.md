@@ -72,6 +72,7 @@ But if you're lazy like I am, here's some shortcuts for each chapter:
 - [0x06: What does the file structure of a Spring project look like?](./src/main/java/org/gogoasa/WTF/is/Spring/_06/filestructure.md)
 - [0x07: So, how do controllers work in Spring?](./src/main/java/org/gogoasa/WTF/is/Spring/_07/controllers.md)
 - [0x08: Servicing in Spring](./src/main/java/org/gogoasa/WTF/is/Spring/_08/services.md)
+- [0x09: Repositories & communicating with the database](./src/main/java/org/gogoasa/WTF/is/Spring/_09/repositories.md)
 
 ---
 - **[Project Example](./src/main/java/org/gogoasa/WTF/is/Spring/ANOTHERREADME.md)**
