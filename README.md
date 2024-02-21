@@ -75,5 +75,18 @@ But if you're lazy like I am, here's some shortcuts for each chapter:
 - [0x09: Repositories & communicating with the database](./src/main/java/org/gogoasa/WTF/is/Spring/_09/repositories.md)
 - [0x0A: How to log things properly](./src/main/java/org/gogoasa/WTF/is/Spring/_10/logging.md)
 
+
+That is most everything you will need to get started with Spring. Of course, there's plenty more
+out there, but someone more experienced than I can probably guide you through that 10 times better.
+
+However, if you wish to look into things even deeper some things I recommend are the following:
+- [The Holy Grail of Spring & Java (Baeldung)](https://www.baeldung.com/);
+- JSON parsing with the Jackson library;
+- Looking into actually using Spring security, JWTs, OAuth;
+- Spring Cloud, in case you're interested in microservices (personal favourite of mine);
+- Test frameworks: JUnit, Mockito, TestNG; also specific SpringBootTest integration tests;
+- Kotlin, if you want to see what Java would look like with less boilerplate;
+- *Maybe more... sometime in the future*
+
 ---
 - **[Project Example](./src/main/java/org/gogoasa/WTF/is/Spring/ANOTHERREADME.md)**
